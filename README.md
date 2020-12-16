@@ -1,2 +1,2 @@
-# c-compiler
+# Compiler
 Compiler in C++
